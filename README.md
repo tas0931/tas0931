@@ -1,5 +1,3 @@
-# GitHub Portfolio - tas0931
-
 ## Profile Overview
 Welcome to my GitHub profile! I'm a developer passionate about full-stack web development, machine learning, and data science. This document summarizes all of my public projects and work.
 
@@ -114,14 +112,6 @@ An educational data mining project focused on predicting academic outcomes such 
 
 ---
 
-## Project Statistics
-- **Total Repositories:** 5
-- **Total Stars:** 2 ⭐
-- **Total Forks:** 1
-- **Primary Languages:** JavaScript, Jupyter Notebook
-
----
-
 ## Contact & Links
 - **GitHub Profile:** [@tas0931](https://github.com/tas0931)
 
@@ -131,5 +121,3 @@ An educational data mining project focused on predicting academic outcomes such 
 My portfolio demonstrates a strong foundation in both full-stack web development and machine learning/data science. I specialize in building user-centric applications and implementing advanced ML techniques for real-world problems. I'm particularly interested in projects that combine practical web development with intelligent systems for positive social impact.
 
 ---
-
-*Last updated: June 18, 2026*
